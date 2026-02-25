@@ -133,7 +133,9 @@ src/
 
 ## Screenshots
 
-> *(Add screenshots of your dashboard here)*
+![Dashboard Overview](/src/assets/Images/Dashboard.png)
+![AI Chat](/src/assets/Images/Ai_ChatBot.png)
+![Settings Panel](/src/assets/Images/chartSettings.png)
 
 ---
 
